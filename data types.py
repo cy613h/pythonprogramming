@@ -23,4 +23,3 @@ print(cars)
 print(fruits)
 print(countries)
 
-# Typecasting
